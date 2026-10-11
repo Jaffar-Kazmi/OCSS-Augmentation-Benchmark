@@ -77,7 +77,7 @@ The OCA recall gain from combined augmentation remains under this protocol, but 
 
 ## Software environment
 
-The ResNet50 and ConvNeXt-Tiny runs used Kaggle with Python 3.12.13, PyTorch 2.10.0 (CUDA 12.8), torchvision 0.25.0, timm 1.0.26 and a Tesla T4 GPU. The ViT-B/16 run used Colab with Python 3.13.15, PyTorch 2.11.0 (CUDA 13.0), torchvision 0.26.0, timm 1.0.30 and a Tesla T4 GPU. Deterministic cuDNN is enabled in all runs.
+The ResNet50 and ConvNeXt-Tiny runs used Kaggle with Python 3.12.13, PyTorch 2.10.0 (CUDA 12.8), torchvision 0.25.0, timm 1.0.26 and a Tesla T4 GPU. The ViT-B/16 run used Colab with Python 3.13.15, PyTorch 2.11.0 (CUDA 13.0), torchvision 0.26.0, timm 1.0.30 and a Tesla T4 GPU. The two sensitivity runs also used Kaggle with a Tesla T4 GPU. Deterministic cuDNN is enabled in all runs.
 
 ## Limitations
 
